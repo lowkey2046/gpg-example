@@ -1,4 +1,4 @@
-header
+# header
 
 gitlab_shell_path: /home/git/gitlab-shell/
 repos_path: /home/git/repositories/
